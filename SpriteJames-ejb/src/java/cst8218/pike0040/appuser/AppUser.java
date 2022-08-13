@@ -21,7 +21,7 @@ import javax.xml.bind.annotation.XmlRootElement;
 
 /**
  *
- * @author James Pike
+ * @author James Pike, Alejandro Suarez
  */
 @Entity
 //@Table(name="APPUSER")

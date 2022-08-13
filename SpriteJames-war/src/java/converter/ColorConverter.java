@@ -11,7 +11,7 @@ import javax.faces.convert.FacesConverter;
 
 /**
  * This class is for converting a color object to a hex color code and converting a hex color code string to a color object.
- * @author James Pike
+ * @author James Pike, Alejandro Suarez
  */
 //@FacesConverter(forClass=Color.class)
 @FacesConverter("colorconverter")

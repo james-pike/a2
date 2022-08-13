@@ -20,7 +20,7 @@ import javax.faces.model.SelectItem;
 
 /**
  * This is a controller of sprite entity to handles the jsf logic.
- * @author James Pike
+ * @author James Pike, Alejandro Suarez
  */
 @Named("spriteController")
 @SessionScoped

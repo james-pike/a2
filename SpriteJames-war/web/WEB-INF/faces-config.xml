@@ -37,11 +37,5 @@
             <var>bundleAppUser</var>
         </resource-bundle>
     </application>
-    <converter>
-        <converter-id>colorconverter</converter-id>
-        <converter-class>
-            converter.ColorConverter
-        </converter-class>
-    </converter>
         
 </faces-config>

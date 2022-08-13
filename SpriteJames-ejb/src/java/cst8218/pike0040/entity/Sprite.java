@@ -24,7 +24,7 @@ import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
 
 /**
  * This is an entity class of a sprite data.
- * @author James Pike
+ * @author James Pike, Alejandro Suarez
  */
 @Entity
 @XmlRootElement
