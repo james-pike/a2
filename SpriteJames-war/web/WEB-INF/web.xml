@@ -47,26 +47,5 @@
             <role-name>JsfGroup</role-name>
         </auth-constraint>
     </security-constraint>
-    <!--    <login-config>
-        <auth-method>BASIC</auth-method>
-        <realm-name>file</realm-name>
-    </login-config>-->
-    <!--    <security-role>
-        <description>role</description>
-        <role-name>Admin</role-name>
-    </security-role>-->
-<!--    <data-source>
-        <description>Jinhyo’s MySQL8 data source.</description>
-        <name>java:app/Lab4</name>
-        <class-name>com.mysql.cj.jdbc.MysqlDataSource</class-name>
-        <server-name>192.168.124.134</server-name>
-        <port-number>3306</port-number>
-        <database-name>lab4</database-name>
-        <user>root</user>
-        <password>root</password>
-        <property>
-            <name>connectionAttributes</name>
-            <value>;create=true</value>
-        </property>
-    </data-source>-->
+    
 </web-app>
